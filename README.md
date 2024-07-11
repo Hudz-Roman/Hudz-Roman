@@ -35,8 +35,6 @@
 
 <img align="left" alt="GitHub" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-<img align="left" alt="Bash" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-
 <img align="left" alt="Linux" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
 <img align="left" alt="Figma" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
