@@ -5,7 +5,7 @@
 <a href="https://www.codewars.com/users/Hudz-Roman/" target="_blank" rel="noopener noreferrer"><img src="https://www.codewars.com/users/Hudz-Roman/badges/small" alt="Codewars"></a>
 
 ### 🤏🏼 Little bit about me
-<p>As a passionate Full Stack developer specializing in the MERN stack (MongoDB, Express, React, Node.js), I enjoy building dynamic and responsive web applications. I thrive on creating solutions that are both efficient and user-friendly, and I am always eager to learn and apply new technologies to enhance my skills. I am dedicated to continuous improvement and excited about contributing to innovative projects.</p>
+<p>As a Full Stack developer specializing in the MERN stack (MongoDB, Express, React, Node.js), I enjoy building dynamic, responsive web applications. I create efficient and user-friendly solutions, and I am always eager to learn and apply new technologies to improve my skills.</p>
 
 ##### 👇🏼 Below in the pinned projects you can see my works...
 
