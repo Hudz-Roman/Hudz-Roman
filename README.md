@@ -7,6 +7,8 @@
 ### 🤏🏼 Little bit about me
 <p>As a passionate Full Stack developer specializing in the MERN stack (MongoDB, Express, React, Node.js), I enjoy building dynamic and responsive web applications. I thrive on creating solutions that are both efficient and user-friendly, and I am always eager to learn and apply new technologies to enhance my skills. I am dedicated to continuous improvement and excited about contributing to innovative projects.</p>
 
+##### 👇🏼 Below in the pinned projects you can see my works...
+
 ### 💻 Languages and Tools
 
 <img align="left" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -29,8 +31,4 @@
 
 <img align="left" alt="MongoDB" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
 
-<img align="left" alt="Linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /><br> 
-
-<br>
-
-##### 👇🏼 Below in the pinned projects you can see my works...
+<img align="left" alt="Linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
